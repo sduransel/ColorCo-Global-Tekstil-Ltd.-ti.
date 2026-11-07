@@ -1,0 +1,6 @@
+{
+  "name": "ColorCo Servis Takip Programı",
+  "description": "ColorCo kurumsal müşterileri, cihazlar, periyodik bakım, kalibrasyon takibi ve tahsilat yönetim sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
